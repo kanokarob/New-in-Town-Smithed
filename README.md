@@ -12,7 +12,7 @@ Starting from humble beginnings -- a settler's wagon -- employ the help of your 
 > A natural progression system that doesn't detract from normal Minecraft gameplay
 > Fully modular town, fortress, and city construction and layout, from what you build, where you build it, and in what order
 > Hours of side content in the form of quests, random events, and research tasks
-> More than 80 structures spread across three dimensions
+> More than 100 structures spread across three dimensions
 > Progressively more challenging attacks from the Nether
 > Randomly generated natural features to explore, from a floating island to an ancient drill
 > Taxes, resource gathering, and interaction with your villagers' economy
@@ -41,15 +41,15 @@ Our growing community now has a Discord server, where you are free to discuss wi
 
 
 ### Build up a town that works for you as you work for it, hiring villagers in Lumber Mills and Fisheries, and building Adventure Guilds and Railway Stations!
-![](https://i.imgur.com/gBZepB5.jpg)
+![](https://i.imgur.com/lPSfdRS.jpg)
 
 
 ### Build a castle for your kingdom, starting by laying out the castle's frames, then upgrading each wing independently!
-![](https://i.imgur.com/0RpKgXt.png)
+![](https://i.imgur.com/8RONLKE.png)
 
 
 ### New in Town's progression fits in seamlessly with standard Minecraft gameplay. As you develop yourself, expand your town with powerful Wizard's Towers and Haunted Mansions!
-![](https://i.imgur.com/1hOdNEd.png)
+![](https://i.imgur.com/OBVckbH.png)
 
 
 ### Explore the world around your town to find non-biome-dependent structures, each with a unique puzzle or task to obtain a secret artifact used for some town buildings!
@@ -57,11 +57,11 @@ Our growing community now has a Discord server, where you are free to discuss wi
 
 
 ### Launch a Counteroffensive against the Tyrant, taking the fight to them by building your own Nether Fortress!
-![](https://i.imgur.com/Gh0p7Bs.png)
+![](https://i.imgur.com/whPch7B.png)
 
 
 ### Defend the End from the Tyrant's Invasion in an epic four-stage battle!
-![](https://i.imgur.com/BqFDtWi.png)
+![](https://i.imgur.com/TokK7gt.pngg)
 
 
 ### Build an End City for the grateful Enderman refugees, filled with expensive end-game structures like the infinite Lava Chamber, the Golden Carrot Farm, and the Hall of Heroes!
